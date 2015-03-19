@@ -1,0 +1,10 @@
+[
+  {
+    "model": "address.City",
+    "pk": 1,
+    "fields": {
+      "name": "تهران",
+      "province": 1
+    }
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "model": "address.Province",
+    "pk": 1,
+    "fields": {
+      "name": "تهران"
+    }
+  }
+]
