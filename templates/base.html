@@ -1,0 +1,21 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+
+    <title>
+        {% block title %}
+            آرا
+        {% endblock %}
+    </title>
+
+    {% block css %}
+        <link rel="stylesheet" type="text/css" href="{% static 'css/base.css' %}">
+    {% endblock %}
+</head>
+
+<body>
+
+</body>
+</html>
